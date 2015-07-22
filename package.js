@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Add a Meteor.isMobile boolean variable",
+  summary: "Introduce autocompleting power to textareas, like GitHub comment forms have.",
   version: "0.3.9_1",
   name: "mquandalle:jquery-textcomplete",
   git: "https://github.com/mquandalle/meteor-jquery-textcomplete.git"
